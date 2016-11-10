@@ -1,0 +1,28 @@
+{
+  "name": "insert-token",
+  "version": "1.0.0",
+  "description": "Simple search and replace utility for replacing tokens in objects / strings / text etc",
+  "main": "lib/replacer.js",
+  "scripts": {
+    "test": "mocha test/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CjS77/insert-token.git"
+  },
+  "keywords": [
+    "token",
+    "search",
+    "replace"
+  ],
+  "author": "Cayle Sharrock <cayle@coinbase.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CjS77/insert-token/issues"
+  },
+  "homepage": "https://github.com/CjS77/insert-token#readme",
+  "devDependencies": {
+    "assert": "1.4.1",
+    "mocha": "3.1.2"
+  }
+}
